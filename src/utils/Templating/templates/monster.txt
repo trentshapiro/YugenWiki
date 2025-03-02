@@ -1,0 +1,46 @@
+{{Npcbox
+| map = Isle of Maloha
+| zone = Isle of Maloha
+| level = 25
+| hp = 14,811
+| ac = 375
+| exp = 1,400
+| moveSpeed = 1.5
+| atkDamage = 152
+| atkSpeed = 1
+| atkRange = 1
+| aggro = 8
+| boss = 1
+}}
+[[Mr Sally's Ghost]] is a boss monster found wandering the [[Isle of Maloha]].
+== Objective Of ==
+* {{questlink||Vicious Valentina}}
+== Loot ==
+=== Weapons ===
+* {{iconlink|Skullthumper}}
+* {{iconlink|Quartz Staff}}
+* {{iconlink|Sturdy Hammer}}
+* {{iconlink|Reinforced Knuckle}}
+* {{iconlink|Poison Dagger}}
+* {{iconlink|Magic Moon Wand}}
+* {{iconlink|Distracting Lute}}
+=== Armor ===
+* {{iconlink|Reinforced Gloves}}
+* {{iconlink|Enlightened Gloves}}
+* {{iconlink|Silver Bracers}}
+* {{iconlink|Gold Bracers}}
+* {{iconlink|Oozy Slime Pauldrons}}
+* {{iconlink|Shadow Pauldrons}}
+* {{iconlink|Heroic Pauldrons}}
+* {{iconlink|Warrior Chain}}
+* {{iconlink|Mystic Chain}}
+* {{iconlink|Priest Chain}}
+* {{iconlink|Bard Chain}}
+* {{iconlink|Knave Chain}}
+* {{iconlink|Monk Chain}}
+=== Consumables ===
+* {{iconlink|Coin Purse}}
+* {{iconlink|Magic Hair Dye}}
+* {{iconlink|Lvl 20 Experience Blessing}}
+=== Sundries ===
+* {{iconlink|Fresh Bluesaw Bass}}

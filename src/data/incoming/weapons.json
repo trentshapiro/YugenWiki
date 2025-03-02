@@ -1,0 +1,21 @@
+{
+    "weapons": [
+        {
+            "name": "Skullthumper",
+            "ac": 67,
+            "req_level": 20,
+            "req_class": "Warrior",
+            "damage_min": 55,
+            "damage_max": 75,
+            "stats": {
+                "str": 4,
+                "sta": 3,
+                "int": 1,
+                "wis": 1,
+                "dex": 2
+            },
+            "sell_value": 440,
+            "image_url": "https://static.wikia.nocookie.net/yugen-saga/images/f/f3/Skullthumper.jpg/revision/latest?cb=20230224185329"
+        }
+    ]
+}
